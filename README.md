@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Roy101
+- 👋 Hi, I’m Palash Ranjan Roy
 - 👀 I’m interested in Research
 - 🌱 I’m currently learning Advanced Algorithms
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ Find my portfolio @ https://ThePalashRoy/com
+- 📫 mail me @palash.roy101@gmail.com
 
 <!---
 Roy101/Roy101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
