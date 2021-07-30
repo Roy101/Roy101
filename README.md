@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Palash Ranjan Roy
 - 👀 I’m interested in Research
 - 🌱 I’m currently learning Advanced Algorithms
-- 💞️ Find my portfolio @ https://ThePalashRoy/com
+- 💞️ Find my portfolio @ https://ThePalashRoy.com
 - 📫 mail me @palash.roy101@gmail.com
 
 <!---
