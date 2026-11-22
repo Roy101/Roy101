@@ -1,11 +1,12 @@
-<img align="right" width="170" src="https://palashroy.me/images/palash_roy_headshot.jpg" alt="Palash Ranjan Roy"/>
+<img align="right" width="170" src="https://palashroy.me/images/palash_roy_headshot.jpg" alt="Palash Ranjan Roy, PhD researcher in Computer Science at the University of Saskatchewan"/>
 
 # Palash Ranjan Roy
 
 **PhD researcher in Computer Science, University of Saskatchewan**<br/>
-[Software Research Lab](https://srlab.usask.ca/) · [iSE Lab](https://ise.usask.ca/) · supervised by Dr. Kevin Schneider
+[Software Research Lab](https://srlab.usask.ca/) · [iSE Lab](https://ise.usask.ca/) · supervised by Dr. Kevin Schneider<br/>
+<sub>Published as Palash Roy and Palash R. Roy · ORCID <a href="https://orcid.org/0000-0001-9470-4233">0000-0001-9470-4233</a></sub>
 
-I study code clones in the age of AI coding assistants: whether clone detectors still hold up on AI-generated code, and how model merging and compression can produce code models that generalize across domains and cost less to run.
+I study code clones, clone detection, LLMs for software engineering, model compression and model merging. My publications, tools and replication packages are at **[palashroy.me](https://palashroy.me/)**.
 
 [![Website](https://img.shields.io/badge/palashroy.me-0f172a?style=flat-square)](https://palashroy.me)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-0f172a?style=flat-square)](https://scholar.google.com/citations?user=Vy_sw5UAAAAJ&hl=en)
