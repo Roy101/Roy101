@@ -11,5 +11,5 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 - 👀 I’m interested in Research & Development
 - 🌱 I’m currently learning Advanced Algorithms
-- 💞️ Find my portfolio @ https://ThePalashRoy.com
+- 💞️ Find my portfolio @ https://palashroy.me
 - 📫 mail me @palash.roy101@gmail.com
