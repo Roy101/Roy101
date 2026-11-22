@@ -1,6 +1,6 @@
-<img align="right" width="170" src="https://palashroy.me/images/palash_roy_headshot.jpg" alt="Palash Ranjan Roy, PhD researcher in Computer Science at the University of Saskatchewan"/>
-
 # Palash Ranjan Roy
+
+<img align="right" width="170" src="https://palashroy.me/images/palash_roy_headshot.jpg" alt="Palash Ranjan Roy, PhD researcher in Computer Science at the University of Saskatchewan"/>
 
 **PhD researcher in Computer Science, University of Saskatchewan**<br/>
 [Software Research Lab](https://srlab.usask.ca/) · [iSE Lab](https://ise.usask.ca/) · supervised by Dr. Kevin Schneider<br/>
